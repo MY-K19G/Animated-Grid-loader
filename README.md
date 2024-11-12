@@ -12,9 +12,9 @@ A smooth, simple pure CSS animated grid loader designed for modern web.
 
 [View Live Demo](https://my-k19g.github.io/Animated-Grid-loader/)
 
-## 📸 Screenshots
+## 📸 Preview
 
-![Animated Grid Loader Screenshot](link_to_screenshot)
+[demo_animation.webm](https://github.com/user-attachments/assets/96fe7a1b-45f0-43a8-b7a7-0bfb407510b5)
 
 ## 🛠️ Technologies Used
 
